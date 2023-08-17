@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "email": "kuznetsovfv2000@gmail.com",
+            "first_name": "Fedor",
+            "last_name": "Kuznetsov",
+            "avatar": "https://i.pinimg.com/564x/f3/0c/1f/f30c1fafa961180b02dcd04dfe99650e.jpg"
+        },
+        {
+            "id": 2,
+            "email": "ryzhik_v@bkmail.ru",
+            "first_name": "Ryzhik",
+            "last_name": "Arnament",
+            "avatar": "https://i.pinimg.com/750x/c0/73/e5/c073e5648eff528bed8d0db5cf858dbf.jpg"
+        },
+        {
+            "id": 3,
+            "email": "arnament@inbox.ru",
+            "first_name": "Fooblya",
+            "last_name": "Belikoff",
+            "avatar": "https://i.pinimg.com/564x/af/1d/60/af1d6097028e47d1df9a945c18bacbb7.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://github.com/FedorKuznetsov99/kfrepository",
+        "text": "To keep KF free, contributions towards server costs are appreciated!"
+    }
+}
